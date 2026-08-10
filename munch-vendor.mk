@@ -935,7 +935,6 @@ PRODUCT_PACKAGES += \
     misound_res \
     misound_res_headphone \
     misound_res_spk \
-    vendor.qti.hardware.fm@1.0 \
     CACertService \
     CneApp \
     IWlanService \
